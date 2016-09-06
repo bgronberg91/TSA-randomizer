@@ -1,0 +1,14 @@
+.container{
+  text-align: center;
+  background: linear-gradient( 90deg, blue, red );
+  color: white;
+}
+
+img{
+  max-width:200%;
+  max-height: 200%;
+}
+
+.bigness{
+  font-size: 4rem;
+}
